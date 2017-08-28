@@ -1,0 +1,97 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Aarushi\Downloads\Accelerometer_StoreData\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from C:\Users\Aarushi\Downloads\Accelerometer_StoreData\app\src\main\AndroidManifest.xml:3:5-58
+		INJECTED from C:\Users\Aarushi\Downloads\Accelerometer_StoreData\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Aarushi\Downloads\Accelerometer_StoreData\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Aarushi\Downloads\Accelerometer_StoreData\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Aarushi\Downloads\Accelerometer_StoreData\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Aarushi\Downloads\Accelerometer_StoreData\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Aarushi\Downloads\Accelerometer_StoreData\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Aarushi\Downloads\Accelerometer_StoreData\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Aarushi\Downloads\Accelerometer_StoreData\app\src\main\AndroidManifest.xml:5:5-96
+	android:name
+		ADDED from C:\Users\Aarushi\Downloads\Accelerometer_StoreData\app\src\main\AndroidManifest.xml:5:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Aarushi\Downloads\Accelerometer_StoreData\app\src\main\AndroidManifest.xml:6:5-97
+	android:name
+		ADDED from C:\Users\Aarushi\Downloads\Accelerometer_StoreData\app\src\main\AndroidManifest.xml:6:22-78
+application
+ADDED from C:\Users\Aarushi\Downloads\Accelerometer_StoreData\app\src\main\AndroidManifest.xml:7:5-21:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Aarushi\.android\build-cache\dd3d0d985ba1984207573e6beb53f1f47a6628f2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Aarushi\.android\build-cache\25aa78bd7838396e9526a20fdaefda38e16e5ce7\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Aarushi\.android\build-cache\bf832608a5aa48d6f83b5157f1e317e881eb7881\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\Aarushi\.android\build-cache\d15c5ac41bc626369869a2af0eaffccc715f04fd\output\AndroidManifest.xml:9:5-20
+MERGED from [com.jjoe64:graphview:4.2.1] C:\Users\Aarushi\.android\build-cache\05037572857b9f205169f7cf5d184ea4d07e4e17\output\AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Aarushi\.android\build-cache\344613855f86ce959e05191d5c862a31d610f5c6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Aarushi\.android\build-cache\d852942d9dee1d1b4579344da2c85e57e5e90cf8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Aarushi\.android\build-cache\c57c87532abc18ed8e13286aee740f174e456e27\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Aarushi\.android\build-cache\768dbae635de4e206cff15eb095499e755c53d8a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Aarushi\.android\build-cache\9ae2cc2847d281037f497b5649ff656ad9f896f7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Aarushi\.android\build-cache\d4a299ed601205f560afc6ab19b53240fde928c0\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\Aarushi\Downloads\Accelerometer_StoreData\app\src\main\AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Aarushi\Downloads\Accelerometer_StoreData\app\src\main\AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from C:\Users\Aarushi\Downloads\Accelerometer_StoreData\app\src\main\AndroidManifest.xml:11:9-54
+	android:allowBackup
+		ADDED from C:\Users\Aarushi\Downloads\Accelerometer_StoreData\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from C:\Users\Aarushi\Downloads\Accelerometer_StoreData\app\src\main\AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from C:\Users\Aarushi\Downloads\Accelerometer_StoreData\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.example.anirban.accelerometer_storedata.MainActivity
+ADDED from C:\Users\Aarushi\Downloads\Accelerometer_StoreData\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from C:\Users\Aarushi\Downloads\Accelerometer_StoreData\app\src\main\AndroidManifest.xml:14:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Aarushi\Downloads\Accelerometer_StoreData\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Aarushi\Downloads\Accelerometer_StoreData\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\Aarushi\Downloads\Accelerometer_StoreData\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Aarushi\Downloads\Accelerometer_StoreData\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\Aarushi\Downloads\Accelerometer_StoreData\app\src\main\AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from C:\Users\Aarushi\Downloads\Accelerometer_StoreData\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Aarushi\.android\build-cache\dd3d0d985ba1984207573e6beb53f1f47a6628f2\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Aarushi\.android\build-cache\25aa78bd7838396e9526a20fdaefda38e16e5ce7\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Aarushi\.android\build-cache\bf832608a5aa48d6f83b5157f1e317e881eb7881\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\Aarushi\.android\build-cache\d15c5ac41bc626369869a2af0eaffccc715f04fd\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.jjoe64:graphview:4.2.1] C:\Users\Aarushi\.android\build-cache\05037572857b9f205169f7cf5d184ea4d07e4e17\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Aarushi\.android\build-cache\344613855f86ce959e05191d5c862a31d610f5c6\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Aarushi\.android\build-cache\d852942d9dee1d1b4579344da2c85e57e5e90cf8\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Aarushi\.android\build-cache\c57c87532abc18ed8e13286aee740f174e456e27\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Aarushi\.android\build-cache\768dbae635de4e206cff15eb095499e755c53d8a\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Aarushi\.android\build-cache\9ae2cc2847d281037f497b5649ff656ad9f896f7\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Aarushi\.android\build-cache\d4a299ed601205f560afc6ab19b53240fde928c0\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Aarushi\.android\build-cache\dd3d0d985ba1984207573e6beb53f1f47a6628f2\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Aarushi\Downloads\Accelerometer_StoreData\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Aarushi\Downloads\Accelerometer_StoreData\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Aarushi\Downloads\Accelerometer_StoreData\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Aarushi\Downloads\Accelerometer_StoreData\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Aarushi\.android\build-cache\dd3d0d985ba1984207573e6beb53f1f47a6628f2\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Aarushi\.android\build-cache\25aa78bd7838396e9526a20fdaefda38e16e5ce7\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Aarushi\.android\build-cache\bf832608a5aa48d6f83b5157f1e317e881eb7881\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Aarushi\.android\build-cache\344613855f86ce959e05191d5c862a31d610f5c6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Aarushi\.android\build-cache\d852942d9dee1d1b4579344da2c85e57e5e90cf8\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Aarushi\.android\build-cache\c57c87532abc18ed8e13286aee740f174e456e27\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Aarushi\.android\build-cache\768dbae635de4e206cff15eb095499e755c53d8a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Aarushi\.android\build-cache\9ae2cc2847d281037f497b5649ff656ad9f896f7\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Aarushi\.android\build-cache\d4a299ed601205f560afc6ab19b53240fde928c0\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Aarushi\.android\build-cache\dd3d0d985ba1984207573e6beb53f1f47a6628f2\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Aarushi\.android\build-cache\dd3d0d985ba1984207573e6beb53f1f47a6628f2\output\AndroidManifest.xml:26:9-47
